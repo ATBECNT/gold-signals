@@ -1,2 +1,3 @@
 logged_utc,candle_utc,timeframe,type,side,entry,sl,tp1,tp2,tp3,status,sentiment
 2026-11-23 09:02,2026-11-23 08:45,15min,SCALP,BUY,3614.47,3603.38,3625.55,3631.1,3636.64,SENT,-
+2026-11-23 12:47,2026-11-23 12:30,15min,SCALP,BUY,3617.9,3609.14,3626.65,3631.03,3635.4,SENT,-
